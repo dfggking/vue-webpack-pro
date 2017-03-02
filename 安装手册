@@ -1,0 +1,8 @@
+1、node环境搭建完毕
+2、安装vue-cli、webpack
+3、vue init webpack-simple vuemgrpro
+4、生成了webpack项目结构 
+src
+.babelrc
+index.html
+webpack.config.js
